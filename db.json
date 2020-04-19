@@ -1,0 +1,17 @@
+{
+  "users":[
+    { "id":1, "name": "Juan Cardoso", "username": "jcardoso", "email":  "cardosolizano@hotmail.com",  "image":  "https://i.ibb.co/ZH7356D/cody.jpg"},
+    { "id":2, "name": "Luis lizano", "username": "cardoso", "email":  "cardosolizano@gmail.com",  "image":  "https://i.ibb.co/ZH7356D/cody.jpg"},
+    { "id":3, "name": "Naty lizano", "username": "naty", "email":  "lizano@gmail.com",  "image":  "https://i.ibb.co/ZH7356D/cody.jpg"}
+  ],
+  "posts": [
+    { "id": 1, "title": "Porque adoptar animales?", "body": "por que si", "userId": 1 },
+    { "id": 2, "title": "que pienso del calentamiento global?", "body": "es real", "userId": 1 },
+    { "id": 2, "title": "COmo crear una empresa?", "body": "por que si queiro", "userId": 2 }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ]
+
+}
